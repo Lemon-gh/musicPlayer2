@@ -1,0 +1,48 @@
+[
+    {
+        "image": "../source/song_1.jpg",
+        "audioSrc": "../source/song_1.mp3",
+        "name": "听妈妈的话",
+        "album": "依然范特西",
+        "singer": "周杰伦",
+        "duration": 266,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_2.jpg",
+        "audioSrc": "../source/song_2.mp3",
+        "name": "樱花树下的重逢",
+        "album": "樱花树下的重逢",
+        "singer": "情词尧",
+        "duration": 130,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_3.jpg",
+        "audioSrc": "../source/song_3.mp3",
+        "name": "绝不会放过",
+        "album": "绝不会放过",
+        "singer": "王亚东",
+        "duration": 253,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_4.jpg",
+        "audioSrc": "../source/song_4.mp3",
+        "name": "那个女孩",
+        "album": "那个女孩",
+        "singer": "张泽熙",
+        "duration": 220,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_5.jpg",
+        "audioSrc": "../source/song_5.mp3",
+        "name": "牧马城市",
+        "album": "老男孩电视剧原声带",
+        "singer": "毛不易",
+        "duration": 258,
+        "isLike": false
+    }
+
+]
